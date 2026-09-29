@@ -1,0 +1,10 @@
+{
+  "files": [], // List of individual files to include (empty means include all via "include" or default)
+  "references": [], // For project references (empty here, no references)
+  "compilerOptions": {
+    "baseUrl": ".", // Base directory for resolving non-relative module imports
+    "paths": {
+      "@/*": ["./src/*"] // Map "@" alias to the "src" folder for simpler imports
+    }
+  }
+}

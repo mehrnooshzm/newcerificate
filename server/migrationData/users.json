@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "GvEmsBjJ62MTveu5ix7OttJiHN73",
+    "email": "certi@yahoo.com",
+    "emailVerified": false,
+    "disabled": false,
+    "metadata": {
+      "lastSignInTime": null,
+      "creationTime": "Thu, 27 Aug 2026 20:14:11 GMT"
+    },
+    "passwordHash": "ou0jBef2ec8IwU-SKrQX20V0MBHmkk99mSeA4N44nL7P9d0MGr6Ng9r2kQPgYPX0SDlIrQsmcii7YwYIhPmaRw==",
+    "passwordSalt": "xxEr19FaudI2_Q==",
+    "tokensValidAfterTime": "Thu, 27 Aug 2026 20:14:11 GMT",
+    "providerData": [
+      {
+        "uid": "certi@yahoo.com",
+        "email": "certi@yahoo.com",
+        "providerId": "password"
+      }
+    ]
+  },
+  {
+    "uid": "HYg4p2ohEDe8E3u5bv5tV9Gh8sE2",
+    "email": "test@yahoo.com",
+    "emailVerified": false,
+    "disabled": false,
+    "metadata": {
+      "lastSignInTime": null,
+      "creationTime": "Thu, 27 Aug 2026 19:15:28 GMT"
+    },
+    "passwordHash": "WmnnofGvMH0LWJ0mwKVhiHEnvmJVbLYnC6frgE_wNHN_z6YDJ14BB_DZAsSwfCqQvd4PcjW7UNTka3XY3JR61g==",
+    "passwordSalt": "Queljb67VUVT1w==",
+    "tokensValidAfterTime": "Thu, 27 Aug 2026 19:15:28 GMT",
+    "providerData": [
+      {
+        "uid": "test@yahoo.com",
+        "email": "test@yahoo.com",
+        "providerId": "password"
+      }
+    ]
+  }
+]
