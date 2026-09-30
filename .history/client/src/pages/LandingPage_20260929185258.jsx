@@ -114,7 +114,7 @@ const newTeamMembers = [
     github: 'https://github.com/rafelshu12',
   },
   {
-    name: 'Surathul Sanofer',
+    name: 'Surathul Sa',
     role: 'Full Stack Developer',
     image: '/images/team/Surathul.jpg',
     description:

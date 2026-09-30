@@ -94,7 +94,7 @@ const newTeamMembers = [
     github: 'https://github.com/Bellamcr',
   },
   {
-    name: 'Mehrnoosh Zavar Mousavi',
+    name: 'Mehrnoosh',
     role: 'Full Stack Developer',
     image: '/images/team/Mehrnoosh.png',
     description:
@@ -114,7 +114,7 @@ const newTeamMembers = [
     github: 'https://github.com/rafelshu12',
   },
   {
-    name: 'Surathul Sanofer',
+    name: 'Surathul',
     role: 'Full Stack Developer',
     image: '/images/team/Surathul.jpg',
     description:
