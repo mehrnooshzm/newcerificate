@@ -85,7 +85,7 @@ const newTeamMembers = [
     github: 'https://github.com/anjali65-dev/',
   },
   {
-    name: 'Izabella Ribeiro',
+    name: 'Isabella Ribeiro',
     role: 'Full Stack Developer',
     image: '/images/team/Isabella.jpg',
     description:
